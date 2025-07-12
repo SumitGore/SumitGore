@@ -54,7 +54,7 @@
 
 - 📧 Email: [sg0003376@gmail.com](mailto:sg0003376@gmail.com)
 - 💼 LinkedIn: [Sumit Gore](https://www.linkedin.com/in/sumit-gore-a667b5151/)
-<!-- - 🌐 Portfolio: *(add your portfolio/GitHub Pages link if available)* -->
+- 🌐 Portfolio: [Sumit Gore Portfolio](https://sumit-gore01.netlify.app/)
 
 ---
 
